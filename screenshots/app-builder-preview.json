@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Bazaar Desk",
+      "hasCanvas": false,
+      "bodyTextLen": 10766,
+      "bodyTextHash": "d867b611f73e8ff99ea1a97405e442733b3c4c61036e40774720645ca834e528",
+      "bodyTextPrefix": "HYPIXEL SKYBLOCK Bazaar Desk Metric guide Filters Refresh Catalo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Bazaar Desk",
+      "hasCanvas": false,
+      "bodyTextLen": 858,
+      "bodyTextHash": "e8e67221a067827a0ffa7e16c259c66dcd370f0040fc5b1d693c05a25ba10ed2",
+      "bodyTextPrefix": "HYPIXEL SKYBLOCK Bazaar Desk Metric guide Filters Refresh Catalo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
